@@ -1,0 +1,24 @@
+{
+    "skillItems": [
+      {
+        "key": "1",
+        "name": "Adobe Photoshop",
+        "logoSvg": "https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg"
+      },
+      {
+        "key": "2",
+        "name": "Adobe Illustrator",
+        "logoSvg": "https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg"
+      },
+      {
+        "key": "3",
+        "name": "Adobe After Effects",
+        "logoSvg": "https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg"
+      },
+      {
+        "key": "4",
+        "name": "Figma",
+        "logoSvg": "https://cdn.worldvectorlogo.com/logos/figma-1.svg"
+      }
+    ]
+  }

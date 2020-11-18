@@ -11,7 +11,6 @@ export function Skills() {
   useEffect(() => {
     getSkillsItem();
   }, []);
-  console.log(skills);
   return (
     <div className="skills" id="skills">
       <div className="container">
